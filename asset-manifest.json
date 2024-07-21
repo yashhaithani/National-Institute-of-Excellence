@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/yashhaithani/National-Institute-of-Excellence.git/static/css/main.41f0c4ad.css",
-    "main.js": "/yashhaithani/National-Institute-of-Excellence.git/static/js/main.52d29f1b.js",
-    "static/js/453.ed3810f9.chunk.js": "/yashhaithani/National-Institute-of-Excellence.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/gallery-1.jpg": "/yashhaithani/National-Institute-of-Excellence.git/static/media/gallery-1.e5923e319f64b6ed725a.jpg",
-    "static/media/gallery-4.jpg": "/yashhaithani/National-Institute-of-Excellence.git/static/media/gallery-4.4698bbe4940b780176ae.jpg",
-    "static/media/About.jpg": "/yashhaithani/National-Institute-of-Excellence.git/static/media/About.5108fb2f60555765441a.jpg",
-    "static/media/Hero.jpg": "/yashhaithani/National-Institute-of-Excellence.git/static/media/Hero.afb131cbfe40e037ff87.jpg",
-    "static/media/gallery-3.jpg": "/yashhaithani/National-Institute-of-Excellence.git/static/media/gallery-3.8ec5533624c5797021a5.jpg",
-    "static/media/gallrey-2.jpg": "/yashhaithani/National-Institute-of-Excellence.git/static/media/gallrey-2.91fb95604e4accd2722b.jpg",
-    "static/media/program-3.png": "/yashhaithani/National-Institute-of-Excellence.git/static/media/program-3.73a816ab56c0a6e457d6.png",
-    "static/media/program-2.png": "/yashhaithani/National-Institute-of-Excellence.git/static/media/program-2.72b615ee1f3e9b493416.png",
-    "static/media/program-1.png": "/yashhaithani/National-Institute-of-Excellence.git/static/media/program-1.2df5ac8dcbc24654241f.png",
-    "static/media/user-4.webp": "/yashhaithani/National-Institute-of-Excellence.git/static/media/user-4.0d4f16ef56f00f2e8568.webp",
-    "index.html": "/yashhaithani/National-Institute-of-Excellence.git/index.html",
-    "main.41f0c4ad.css.map": "/yashhaithani/National-Institute-of-Excellence.git/static/css/main.41f0c4ad.css.map",
-    "main.52d29f1b.js.map": "/yashhaithani/National-Institute-of-Excellence.git/static/js/main.52d29f1b.js.map",
-    "453.ed3810f9.chunk.js.map": "/yashhaithani/National-Institute-of-Excellence.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/National-Institute-of-Excellence/static/css/main.537f0cfb.css",
+    "main.js": "/National-Institute-of-Excellence/static/js/main.87108d45.js",
+    "static/js/453.ed3810f9.chunk.js": "/National-Institute-of-Excellence/static/js/453.ed3810f9.chunk.js",
+    "static/media/gallery-1.jpg": "/National-Institute-of-Excellence/static/media/gallery-1.e5923e319f64b6ed725a.jpg",
+    "static/media/gallery-4.jpg": "/National-Institute-of-Excellence/static/media/gallery-4.4698bbe4940b780176ae.jpg",
+    "static/media/About.jpg": "/National-Institute-of-Excellence/static/media/About.5108fb2f60555765441a.jpg",
+    "static/media/Hero.jpg": "/National-Institute-of-Excellence/static/media/Hero.afb131cbfe40e037ff87.jpg",
+    "static/media/gallery-3.jpg": "/National-Institute-of-Excellence/static/media/gallery-3.8ec5533624c5797021a5.jpg",
+    "static/media/gallrey-2.jpg": "/National-Institute-of-Excellence/static/media/gallrey-2.91fb95604e4accd2722b.jpg",
+    "static/media/program-3.png": "/National-Institute-of-Excellence/static/media/program-3.73a816ab56c0a6e457d6.png",
+    "static/media/program-2.png": "/National-Institute-of-Excellence/static/media/program-2.72b615ee1f3e9b493416.png",
+    "static/media/program-1.png": "/National-Institute-of-Excellence/static/media/program-1.2df5ac8dcbc24654241f.png",
+    "static/media/user-4.webp": "/National-Institute-of-Excellence/static/media/user-4.0d4f16ef56f00f2e8568.webp",
+    "index.html": "/National-Institute-of-Excellence/index.html",
+    "main.537f0cfb.css.map": "/National-Institute-of-Excellence/static/css/main.537f0cfb.css.map",
+    "main.87108d45.js.map": "/National-Institute-of-Excellence/static/js/main.87108d45.js.map",
+    "453.ed3810f9.chunk.js.map": "/National-Institute-of-Excellence/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41f0c4ad.css",
-    "static/js/main.52d29f1b.js"
+    "static/css/main.537f0cfb.css",
+    "static/js/main.87108d45.js"
   ]
 }
