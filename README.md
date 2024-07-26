@@ -1,3 +1,6 @@
+# Collage Web Page
+
+
 Create a responsive and modern website for the National Institute of Excellence using HTML, CSS, JavaScript, and ReactJS. The website should showcase the institute's academic excellence and campus life through the following features:
 
 Home: A welcoming landing page highlighting key information about the institute, upcoming events, and a brief overview.
